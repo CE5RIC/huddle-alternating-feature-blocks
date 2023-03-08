@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap');
+
+
+p, a, li {
+    font-family: "Open Sans"
+}
+
+
+.white-logo {
+    filter: invert(93%) sepia(37%) saturate(0%) hue-rotate(286deg) brightness(105%) contrast(101%);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
